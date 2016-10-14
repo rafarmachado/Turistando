@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Confirmar"; ObjectID = "4Iv-MH-b6B"; */
+"4Iv-MH-b6B.normalTitle" = "Confirmar";
+
+/* Class = "UILabel"; text = "CódigoPais"; ObjectID = "4lQ-SM-Kkn"; */
+"4lQ-SM-Kkn.text" = "CódigoPais";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "5w3-H8-ksh"; */
+"5w3-H8-ksh.text" = "--";
+
+/* Class = "UILabel"; text = "NomeCompletoPais"; ObjectID = "Czi-Ck-xdT"; */
+"Czi-Ck-xdT.text" = "NomeCompletoPais";
+
+/* Class = "UIBarButtonItem"; title = "Cancelar"; ObjectID = "N98-Vt-3Z2"; */
+"N98-Vt-3Z2.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Pch-ro-Gcv"; */
+"Pch-ro-Gcv.text" = "--";
+
+/* Class = "UITextView"; text = "Entre com seu Facebook para podermos registar seus melhores momentos!"; ObjectID = "S70-xr-Zqe"; */
+"S70-xr-Zqe.text" = "Entre com seu Facebook para podermos registar seus melhores momentos!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SUp-lS-UNf"; */
+"SUp-lS-UNf.text" = "Label";
+
+/* Class = "UILabel"; text = "Data Da Visita:"; ObjectID = "YC4-YU-1MK"; */
+"YC4-YU-1MK.text" = "Data Da Visita:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bOb-zz-gzM"; */
+"bOb-zz-gzM.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Confirmar"; ObjectID = "cva-9c-YWd"; */
+"cva-9c-YWd.title" = "Confirmar";
+
+/* Class = "UILabel"; text = "Bem Vindo! "; ObjectID = "gey-Nr-l7G"; */
+"gey-Nr-l7G.text" = "Bem Vindo! ";
+
+/* Class = "UILabel"; text = "País já visitado:"; ObjectID = "zpP-l0-CaS"; */
+"zpP-l0-CaS.text" = "País já visitado:";
